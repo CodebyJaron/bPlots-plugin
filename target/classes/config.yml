@@ -1,0 +1,16 @@
+license: ""
+settings:
+  buy:
+    max-plots: 3
+  quicksell:
+    percentage: 80
+  sell:
+    max-sales-per-player: -1
+plotinfo-menu:
+  item-title-color: '&b'
+  item-text-color: '&3'
+  title: '&3&lPlotinfo'
+plot-sales-menu:
+  item-title-color: '&b'
+  item-text-color: '&3'
+  title: '&3&lPlots te koop'

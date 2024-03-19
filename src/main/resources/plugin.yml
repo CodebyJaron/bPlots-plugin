@@ -1,0 +1,13 @@
+name: bPlots
+version: 1.0.0
+main: nl.bamischrijft.bplots.Main
+author: BamiSchijf
+depend: [WorldGuard, Vault]
+commands:
+  plot:
+    usage: /<command> [...args]
+    description: 'Plot command'
+  plotinfo:
+    usage: /<command>
+    description: 'Plotinfo command'
+    aliases: [pi]
